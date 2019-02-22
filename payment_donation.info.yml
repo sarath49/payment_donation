@@ -1,0 +1,8 @@
+name: 'Payment donation form'
+description: 'Provides a block with a simple donation form.'
+core: 7.x
+type: module
+dependencies:
+ - payment:payment
+ - currency:currency
+ - plugin:plugin
